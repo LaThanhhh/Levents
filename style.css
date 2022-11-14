@@ -340,9 +340,6 @@ video{
 .jus-spa {
     justify-content: space-between;
 }
-.jus-ct{
-    justify-content: space-between;
-}
 .fl-wrap{
     display: flex;
     padding: 0;
