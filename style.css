@@ -381,7 +381,7 @@ li{
 .ft__txt {
     margin-bottom: 2.3rem;
     line-height: 20px;
-    font-size: x-small;
+    font-size: small;
 }
 .ft__txt:last-child {
     margin-bottom: 0;
@@ -400,7 +400,7 @@ li{
 }
 .ft__list {
     line-height: 20px;
-    font-size: x-small;
+    font-size: small;
 }
 .ft__list li {
     margin-bottom: 2.3rem;
